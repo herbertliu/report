@@ -6,6 +6,37 @@ bin-release/
 # Other files and folders
 .settings/
 
+*.iml
+.idea/
+.ipr
+.iws
+*~
+~*
+*.diff
+*.patch
+*.bak
+.DS_Store
+Thumbs.db
+.project
+.*proj
+.svn/
+*.swp
+*.swo
+*.log
+*.sublime-project
+*.sublime-workspace
+node_modules/
+dist/
+tmp/
+.lego-build
+.buildpath
+.settings
+.yml
+_site
+coverage
+tests/lego_modules
+
+
 # Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
 # should NOT be excluded as they contain compiler settings and other important
 # information for Eclipse / Flash Builder.
