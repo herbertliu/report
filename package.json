@@ -1,0 +1,14 @@
+{
+  "name": "imweb-report",
+  "version": "0.1.5",
+  "description": "report to tdw width cgi;you can report one data at least;if you have some question;please contact herbertliu",
+  "main": "index.js",
+  "scripts": {
+    "test": "report.tdw()"
+  },
+  "keywords": [
+    "imweb"
+  ],
+  "author": "herbertliu",
+  "license": "\"\""
+}
