@@ -13,3 +13,10 @@ report.tdw(params[,args][,table]) //支持单条上报和多条上报
 report.config(params[,args][,table])//设置公共项目,参数同report.tdw
 report.toreport() //立上报
 ```
+
+支持DOM属性上报
+```html
+<a href="javascript:void(0)" id="trigger" report-tdw="uin=624005743&ts=ts&opername=opername&&&obj=1&|uin=648909575&ts=ts&opername=opername1&&&obj=2&" style="border:solid 1px #000;">
+	<span  report-tdw="uin=917547653&ts=ts&opername=div&&&obj=3&">点我，有属性</span>
+</a>
+```
