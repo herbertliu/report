@@ -28,13 +28,10 @@ Thumbs.db
 node_modules/
 dist/
 tmp/
-.lego-build
 .buildpath
-.settings
 .yml
 _site
 coverage
-tests/lego_modules
 
 
 # Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
