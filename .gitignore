@@ -32,6 +32,7 @@ tmp/
 .yml
 _site
 coverage
+test/
 
 
 # Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
